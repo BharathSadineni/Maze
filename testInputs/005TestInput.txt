@@ -1,0 +1,18 @@
+S
+South
+go east
+s
+I want to go NORTH
+go south
+s
+down
+climb up
+e
+d
+u
+West sounds promising
+down
+w
+better get out fast, quit quit quit
+
+

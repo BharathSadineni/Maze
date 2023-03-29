@@ -1,0 +1,13 @@
+south
+west
+southeast
+southwest
+northeast
+northwest
+up
+down
+north
+east
+quit
+
+

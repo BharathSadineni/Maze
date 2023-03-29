@@ -1,0 +1,11 @@
+w
+d
+se
+SOUTHEAST
+I want to go NORTHEAST
+n
+s
+walk north this time
+I give up, quit
+
+

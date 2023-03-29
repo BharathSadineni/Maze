@@ -1,0 +1,14 @@
+w
+d
+sw
+u
+sw
+u
+sw
+d
+se
+n
+w
+q
+
+
